@@ -1,0 +1,1 @@
+print("Esse arquivo vai ser utilizado como rascunho do projeto.")
