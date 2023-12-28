@@ -18,9 +18,6 @@ Projeto desenvolvido no semestre 2022.1, requisitado pela disciplina MI - Alogor
 
 </div>
 
-
-- Descrição 
-
 <h2 align="left">Requisitos e Funcionalidades</h2>
 <div align="justify">
 
