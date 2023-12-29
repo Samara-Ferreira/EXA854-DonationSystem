@@ -2,10 +2,6 @@
     🧺<br>Sistema de Cadastramento e Organização de Cestas Básicas
     </h1>
 
-<p align="center">
-    <img src="Anexos/gif-shopping.gif" alt=gif="620" height="170">
-</p>
-
 <h2 align="left">Autoria</h2>
 <ul> 
    <li><a href="https://github.com/Samara-Ferreira">Samara dos Santos Ferreira</a></li>
