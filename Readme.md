@@ -2,6 +2,12 @@
     🧺<br>Sistema de Cadastramento e Organização de Cestas Básicas
     </h1>
 
+<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/Samara-Ferreira/EXA854-DonationSystem)
+
+</div>
+
 <h2 align="left">Autoria</h2>
 <ul> 
    <li><a href="https://github.com/Samara-Ferreira">Samara dos Santos Ferreira</a></li>
